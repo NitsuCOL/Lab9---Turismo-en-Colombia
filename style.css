@@ -59,7 +59,7 @@
 
 .list-nav-container a:hover{
     font-size: 17px;
-    transform: scale(1);
+    transform: scale(1.2);
     font-weight: 600;
     border-bottom: 1.6px solid #fff;
 }
@@ -104,7 +104,7 @@
     margin-left: 0.5%;
 }
 
-/*Estilos de la seccion de destinos*/
+/*Estilos de la seccion de destinos y comida*/
 .destinos-container, .comida-container{
     padding: 0 8%;
     height: 90vh;
@@ -137,7 +137,7 @@ h2{
     margin: 0 10px 0px -5px;
 }
 
-.content-destinos-container img{
+.content-destinos-container img, .content-comida-container img{
     width: 300px;
     height: 170px;
     border-radius: 5px;
